@@ -6,6 +6,7 @@ sudo yum install screen -y
 sudo yum install go -y
 sudo yum install zsh -y
 sudo yum install wget -y
+sudo yum install tree -y
 
 sudo timedatectl set-timezone Asia/Tokyo
 sudo yum install chrony.x86_64 -y
